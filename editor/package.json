@@ -17,6 +17,7 @@
     "codemirror": "^5.49.2",
     "core-js": "^3.4.3",
     "gray-matter": "^4.0.2",
+    "serve": "^13.0.2",
     "serve-static": "^1.14.1",
     "vue": "^2.6.10",
     "vue-class-component": "^7.0.2",
